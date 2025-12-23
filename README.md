@@ -78,7 +78,3 @@ A estrutura poderá ser expandida conforme novas funcionalidades forem adicionad
 
 Matheus Barbosa
 GitHub: [https://github.com/ObarbosaDev](https://github.com/ObarbosaDev)
-
-
-É só dizer.
-```
