@@ -1,4 +1,4 @@
-# EM-CONSTRUCAO — Site de Advocacia
+# Site de Advocacia
 
 Este repositório contém o código-fonte de um site institucional para escritório de advocacia que se encontra em desenvolvimento (“Em Construção”).  
 O objetivo do projeto é disponibilizar uma página web profissional para apresentação do escritório, áreas de atuação, informações institucionais e contato.
